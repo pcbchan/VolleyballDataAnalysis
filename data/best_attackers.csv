@@ -1,0 +1,253 @@
+Rank,ShirtNumber,Name,Spikes,Faults,Shots,Total attempts,Success %,Country
+1,12,Bruno Lima,177,50,98,325,54.46,arg-argentina
+2,7,Facundo Conte,138,49,101,288,47.92,arg-argentina
+3,2,Federico Pereyra,79,27,51,157,,arg-argentina
+4,3,Jan Martinez Franchi,38,12,35,85,,arg-argentina
+5,4,Maximiliano Cavanna,2,0,1,3,,arg-argentina
+6,5,Nicolas Uriarte,8,1,12,21,,arg-argentina
+7,6,Cristian Poglajen,59,23,60,142,,arg-argentina
+8,8,Agustin Loser,50,9,38,97,,arg-argentina
+9,11,Sebastian Solé,53,9,31,93,,arg-argentina
+10,13,Ezequiel Palacios,93,24,81,198,,arg-argentina
+11,14,Pablo Crer,34,7,22,63,,arg-argentina
+12,15,Luciano De Cecco,7,5,7,19,,arg-argentina
+13,17,Nicolas Mendez,18,8,24,50,,arg-argentina
+14,18,Martin Ramos,56,6,28,90,,arg-argentina
+1,18,Lincoln Alexander Williams,156,68,103,327,47.71,aus-australia
+2,15,Luke Smith,109,29,104,242,45.04,aus-australia
+3,1,Beau Graham,54,14,33,101,,aus-australia
+4,2,Arshdeep Dosanjh,29,3,16,48,,aus-australia
+5,7,Harrison Peacock,0,2,2,4,,aus-australia
+6,8,Trent O'dea,47,10,37,94,,aus-australia
+7,9,Max Staples,33,11,34,78,,aus-australia
+8,10,Jordan Richards,60,27,35,122,,aus-australia
+9,12,Nehemiah Mote,13,6,6,25,,aus-australia
+10,13,Samuel Walker,75,38,78,191,,aus-australia
+11,22,Curtis Jeffrey Arthur Stockton,60,38,36,134,,aus-australia
+12,23,James Weir,27,12,14,53,,aus-australia
+13,24,Elliott Viles,7,10,12,29,,aus-australia
+1,18,Ricardo Lucarelli Souza,173,54,91,318,54.4,bra-brazil
+2,9,Yoandy Leal Hidalgo,161,58,99,318,50.63,bra-brazil
+3,8,Wallace De Souza,152,71,110,333,45.65,bra-brazil
+4,1,Bruno Mossa Rezende,5,1,6,12,,bra-brazil
+5,2,Isac Santos,55,8,26,89,,bra-brazil
+6,3,Eder Carbonera,1,0,0,1,,bra-brazil
+7,5,Lucas Eduardo Loh,4,0,1,5,,bra-brazil
+8,6,Fernando Gil Kreling,2,0,4,6,,bra-brazil
+9,13,Mauricio Luiz De Souza,44,5,22,71,,bra-brazil
+10,14,Douglas Correia De Souza,106,29,69,204,,bra-brazil
+11,16,Lucas Saatkamp,82,12,38,132,,bra-brazil
+12,19,Mauricio Borges Almeida Silva,20,10,14,44,,bra-brazil
+13,21,Alan Souza,115,38,76,229,,bra-brazil
+14,23,Flavio Gualberto,73,9,29,111,,bra-brazil
+15,29,Rafael Araujo,0,1,0,1,,bra-brazil
+1,19,Tsvetan Sokolov,141,53,77,271,52.03,bul-bulgaria
+2,6,Rozalin Penchev,107,46,84,237,45.15,bul-bulgaria
+3,1,Georgi Bratoev,7,3,4,14,,bul-bulgaria
+4,2,Krasimir Georgiev,23,7,22,52,,bul-bulgaria
+5,4,Martin Atanasov,60,35,35,130,,bul-bulgaria
+6,5,Svetoslav Gotsev,51,12,38,101,,bul-bulgaria
+7,7,Nikolay Uchikov,84,28,71,183,,bul-bulgaria
+8,8,Todor Skrimov,65,16,43,124,,bul-bulgaria
+9,9,Georgi Seganov,10,2,9,21,,bul-bulgaria
+10,10,Valentin Bratoev,4,12,12,28,,bul-bulgaria
+11,11,Velizar Chernokozhev,11,7,16,34,,bul-bulgaria
+12,12,Viktor Yosifov,11,2,8,21,,bul-bulgaria
+13,14,Teodor Todorov,17,2,13,32,,bul-bulgaria
+14,17,Nikolay Penchev,41,19,42,102,,bul-bulgaria
+15,18,Nikolay Nikolov,7,1,7,15,,bul-bulgaria
+16,20,Aleks Grozdanov,36,4,12,52,,bul-bulgaria
+17,25,Radoslav Parapunov,3,1,1,5,,bul-bulgaria
+18,26,Plamen Shekerdzhiev,3,3,6,12,,bul-bulgaria
+19,30,Nikolay Kolev,1,0,0,1,,bul-bulgaria
+1,10,Sharone Vernon-Evans,130,32,82,244,53.28,can-canada
+2,7,Stephen Timothy Maar,136,47,94,277,49.1,can-canada
+3,2,John Gordon Perrin,74,31,79,184,,can-canada
+4,4,Nicholas Hoag,113,40,65,218,,can-canada
+5,5,Deanan Gyimah,9,0,2,11,,can-canada
+6,6,Justin Duff,2,1,0,3,,can-canada
+7,9,Jason Derocco,37,13,40,90,,can-canada
+8,11,Daniel Jansen Vandoorn,8,1,3,12,,can-canada
+9,12,Lucas Van Berkel,26,7,20,53,,can-canada
+10,14,Eric Loeppky,6,3,10,19,,can-canada
+11,16,Ryan Joseph Sclater,98,41,82,221,,can-canada
+12,17,Graham Vigrass,67,6,39,112,,can-canada
+13,20,Arthur Szwarc,38,11,19,68,,can-canada
+14,21,Brett James Walsh,7,0,4,11,,can-canada
+1,2,Chuan Jiang,152,56,127,335,45.37,chn-china
+2,1,Qingyao Dai,88,24,82,194,45.36,chn-china
+3,3,Tianyi Mao,1,0,3,4,,chn-china
+4,8,Jingyi Wang,32,14,31,77,,chn-china
+5,9,Yaochen Yu,4,0,1,5,,chn-china
+6,10,Daoshuai Ji,32,9,21,62,,chn-china
+7,11,Haixiang Du,46,17,47,110,,chn-china
+8,12,Zhejia Zhang,29,7,21,57,,chn-china
+9,13,Longhai Chen,41,12,20,73,,chn-china
+10,17,Libin Liu,69,47,64,180,,chn-china
+11,19,Guojun Zhan,2,1,3,6,,chn-china
+12,20,Shuhan Rao,44,11,49,104,,chn-china
+13,21,Ruantong Miao,5,0,3,8,,chn-china
+14,23,Shikun Peng,10,3,3,16,,chn-china
+1,4,Jean Patry,148,66,91,305,48.52,fra-france
+2,1,Jonas Aguenier,22,3,5,30,,fra-france
+3,5,Raphaël Corre,0,0,1,1,,fra-france
+4,6,Benjamin Toniutti,1,1,4,6,,fra-france
+5,7,Kevin Tillie,80,41,71,192,,fra-france
+6,8,Julien Lyneel,55,19,41,115,,fra-france
+7,9,Earvin Ngapeth,21,8,20,49,,fra-france
+8,10,Kevin Le Roux,27,4,19,50,,fra-france
+9,11,Antoine Brizard,11,2,12,25,,fra-france
+10,12,Stephen Boyer,101,50,87,238,,fra-france
+11,14,Nicolas Le Goff,53,6,27,86,,fra-france
+12,16,Daryl Bultor,32,6,12,50,,fra-france
+13,17,Trevor Clevenot,62,24,37,123,,fra-france
+14,18,Thibault Rossard,57,26,56,139,,fra-france
+15,19,Yacine Louati,44,22,48,114,,fra-france
+16,21,Barthélémy Chinenyeze,81,21,37,139,,fra-france
+17,23,Timothée Carle,42,20,19,81,,fra-france
+1,13,Simon Hirsch,170,55,131,356,47.75,ger-germany
+2,1,Christian Fromm,133,40,108,281,47.33,ger-germany
+3,2,Tobias Krick,38,7,15,60,,ger-germany
+4,3,Ruben Schott,92,51,94,237,,ger-germany
+5,5,Moritz Reichert,81,30,92,203,,ger-germany
+6,7,David Sossenheimer,33,17,34,84,,ger-germany
+7,8,Marcus Böhme,40,13,11,64,,ger-germany
+8,11,Lukas Kampa,4,0,1,5,,ger-germany
+9,12,Anton Brehme,84,19,52,155,,ger-germany
+10,15,Noah Baxpöhler,44,9,21,74,,ger-germany
+11,16,Tomas Kocian-Falkenbach,1,0,3,4,,ger-germany
+12,17,Jan Zimmermann,3,2,2,7,,ger-germany
+13,18,Jakob Günthör,3,1,7,11,,ger-germany
+14,19,Daniel Malescha,26,14,15,55,,ger-germany
+15,20,Linus Weber,23,11,27,61,,ger-germany
+1,10,Amir Ghafour,214,59,120,393,54.45,iri-iran
+2,2,Milad Ebadipour Ghara H.,141,39,129,309,45.63,iri-iran
+3,7,Purya Fayazi D.,119,38,117,274,43.43,iri-iran
+4,4,Mir Saeid Marouflakrani,18,4,28,50,,iri-iran
+5,5,Farhad Ghaemi,23,7,29,59,,iri-iran
+6,6,Seyed Mohammad Mousavi Eraghi,94,27,33,154,,iri-iran
+7,9,Masoud Gholami,9,1,4,14,,iri-iran
+8,14,Mohammadjavad Manavinezhad,35,12,29,76,,iri-iran
+9,15,Aliasghar Mojarad,26,6,17,49,,iri-iran
+10,16,Ali Shafiei,81,13,51,145,,iri-iran
+11,20,Porya Yali,51,23,35,109,,iri-iran
+12,21,Morteza Sharifi,1,1,1,3,,iri-iran
+13,24,Javad Karimisouchelmaei,3,1,0,4,,iri-iran
+1,20,Gabriele Nelli,135,36,88,259,52.12,ita-italy
+2,16,Oleg Antonov,113,55,86,254,44.49,ita-italy
+3,1,Davide Candellaro,14,4,10,28,,ita-italy
+4,2,Riccardo Sbertoli,3,1,5,9,,ita-italy
+5,3,Luca Spirito,2,0,0,2,,ita-italy
+6,6,Simone Giannelli,29,4,20,53,,ita-italy
+7,7,Giacomo Raffaelli,8,4,5,17,,ita-italy
+8,8,Daniele Mazzone,15,2,8,25,,ita-italy
+9,12,Fabio Ricci,5,2,7,14,,ita-italy
+10,14,Matteo Piano,19,3,10,32,,ita-italy
+11,15,Roberto Russo,66,11,38,115,,ita-italy
+12,17,Simone Anzani,29,3,12,44,,ita-italy
+13,19,Daniele Lavia,98,38,89,225,,ita-italy
+14,21,Alberto Polo,20,6,11,37,,ita-italy
+15,22,Oreste Cavuto,75,29,82,186,,ita-italy
+16,23,Andrea Argenta,10,4,5,19,,ita-italy
+17,24,Giulio Pinali,98,37,77,212,,ita-italy
+18,28,Francesco Recine,1,1,2,4,,ita-italy
+1,14,Yuki Ishikawa,170,40,112,322,52.8,jpn-japan
+2,11,Yuji Nishida,183,69,114,366,50.0,jpn-japan
+3,1,Issei Otake,64,40,57,161,,jpn-japan
+4,2,Hideomi Fukatsu,0,0,1,1,,jpn-japan
+5,3,Naonobu Fujii,3,1,3,7,,jpn-japan
+6,5,Tatsuya Fukuzawa,91,21,78,190,,jpn-japan
+7,6,Akihiro Yamauchi,49,13,31,93,,jpn-japan
+8,8,Masahiro Yanagida,56,29,50,135,,jpn-japan
+9,12,Masahiro Sekita,5,2,6,13,,jpn-japan
+10,13,Naoya Takano,49,22,45,116,,jpn-japan
+11,15,Haku Ri,38,11,29,78,,jpn-japan
+12,17,Tsubasa Hisahara,10,3,14,27,,jpn-japan
+13,20,Taishi Onodera,65,11,48,124,,jpn-japan
+1,1,Piotr Nowakowski,9,4,4,17,,pol-poland
+2,2,Maciej Muzaj,111,23,107,241,,pol-poland
+3,3,Dawid Konarski,73,21,49,143,,pol-poland
+4,4,Marcin Komenda,3,0,3,6,,pol-poland
+5,5,Lukasz Kaczmarek,91,39,67,197,,pol-poland
+6,7,Artur Szalpuk,38,15,30,83,,pol-poland
+7,11,Fabian Drzyzga,0,0,1,1,,pol-poland
+8,13,Michal Kubiak,12,11,17,40,,pol-poland
+9,14,Aleksander Sliwka,107,22,86,215,,pol-poland
+10,15,Jakub Kochanowski,56,15,38,109,,pol-poland
+11,16,Bartlomiej Boladz,20,8,15,43,,pol-poland
+12,18,Bartosz Kwolek,108,44,93,245,,pol-poland
+13,19,Marcin Janusz,2,1,0,3,,pol-poland
+14,20,Mateusz Bieniek,55,5,29,89,,pol-poland
+15,21,Tomasz Fornal,27,13,34,74,,pol-poland
+16,22,Bartosz Bednorz,117,39,95,251,,pol-poland
+17,25,Michał Szalacha,3,1,0,4,,pol-poland
+18,27,Piotr Łukasik,40,12,24,76,,pol-poland
+19,28,Bartosz Filipiak,8,3,9,20,,pol-poland
+20,77,Karol Klos,67,10,28,105,,pol-poland
+21,99,Norbert Huber,58,12,29,99,,pol-poland
+1,7,Marco Evan Baptista Ferreira,145,67,106,318,45.6,por-portugal
+2,6,Alexandre Ferreira,139,58,111,308,45.13,por-portugal
+3,1,Valdir Sequeira,14,8,7,29,,por-portugal
+4,3,Nuno Teixeira,10,3,14,27,,por-portugal
+5,4,Filip Cveticanin,69,16,37,122,,por-portugal
+6,8,Tiago Da Silva Violas,4,0,5,9,,por-portugal
+7,9,Joao Simoes,28,13,36,77,,por-portugal
+8,10,Phelipe Martins,29,13,33,75,,por-portugal
+9,11,Bruno Cunha,47,23,38,108,,por-portugal
+10,12,Lourenco Martins,70,23,64,157,,por-portugal
+11,13,Caique Oswaldo Ferreira Da Silva,53,19,36,108,,por-portugal
+12,15,Miguel Tavares Rodrigues,12,1,7,20,,por-portugal
+1,15,Victor Poletaev,158,51,94,303,52.15,rus-russia
+2,2,Ilia Vlasov,6,3,4,13,,rus-russia
+3,3,Dmitry Kovalev,6,3,5,14,,rus-russia
+4,4,Denis Zemchenok,71,18,58,147,,rus-russia
+5,7,Dmitry Volkov,91,38,69,198,,rus-russia
+6,8,Anton Semyshev,17,8,10,35,,rus-russia
+7,9,Ivan Iakovlev,70,9,23,102,,rus-russia
+8,10,Fedor Voronkov,64,31,43,138,,rus-russia
+9,11,Igor Philippov,44,7,19,70,,rus-russia
+10,14,Yaroslav Podlesnykh,69,31,34,134,,rus-russia
+11,18,Egor Kliuka,111,41,82,234,,rus-russia
+12,20,Ilyas Kurkaev,107,22,44,173,,rus-russia
+13,24,Igor Kobzar,28,4,15,47,,rus-russia
+14,28,Kirill Klets,5,1,4,10,,rus-russia
+15,29,Kirill Ursov,6,0,7,13,,rus-russia
+1,5,Lazar Cirovic,100,41,99,240,41.67,srb-serbia
+2,1,Aleksandar Okolic,57,7,28,92,,srb-serbia
+3,3,Milan Katic,39,17,43,99,,srb-serbia
+4,4,Nemanja Petric,22,5,21,48,,srb-serbia
+5,7,Petar Krsmanovic,73,8,32,113,,srb-serbia
+6,8,Marko Ivovic,19,5,15,39,,srb-serbia
+7,9,Nikola Jovovic,1,0,6,7,,srb-serbia
+8,10,Miran Kujundžić,73,18,54,145,,srb-serbia
+9,12,Dusan Petkovic,103,35,79,217,,srb-serbia
+10,13,Stevan Simic,38,8,13,59,,srb-serbia
+11,15,Nemanja Masulovic,6,0,3,9,,srb-serbia
+12,16,Drazen Luburic,74,26,44,144,,srb-serbia
+13,20,Srecko Lisinac,35,8,13,56,,srb-serbia
+14,21,Vuk Todorovic,2,0,6,8,,srb-serbia
+15,22,Andrija Vilimanovic,2,0,2,4,,srb-serbia
+16,23,Bozidar Vucicevic,94,50,50,194,,srb-serbia
+17,24,David Mehic,24,16,20,60,,srb-serbia
+18,27,Stefan Kovacevic,3,0,4,7,,srb-serbia
+19,28,Danilo Pavlovic,0,0,1,1,,srb-serbia
+1,18,Garrett Muagututia,119,49,108,276,43.12,usa-usa
+2,1,Matthew Anderson,68,25,40,133,,usa-usa
+3,2,Aaron Russell,17,8,15,40,,usa-usa
+4,3,Taylor Sander,122,30,70,222,,usa-usa
+5,4,Jeffrey Jendryk Ii,49,8,25,82,,usa-usa
+6,5,Kyle Ensing,35,12,36,83,,usa-usa
+7,6,Mitchell Stahl,25,6,23,54,,usa-usa
+8,7,Kawika Shoji,5,1,3,9,,usa-usa
+9,8,Torey Defalco,76,31,53,160,,usa-usa
+10,9,Jake Langlois,19,2,19,40,,usa-usa
+11,11,Micah Christenson,8,6,7,21,,usa-usa
+12,12,Maxwell Holt,42,12,32,86,,usa-usa
+13,13,Benjamin Patch,141,42,73,256,,usa-usa
+14,14,Micah Ma'a,27,11,24,62,,usa-usa
+15,16,Joshua Tuaniga,3,1,3,7,,usa-usa
+16,17,Thomas Jaeschke,26,10,18,54,,usa-usa
+17,19,Taylor Averill,18,4,7,29,,usa-usa
+18,20,David Smith,68,11,41,120,,usa-usa
+19,25,Kyle Russell,27,14,25,66,,usa-usa
+20,30,George Huhmann,20,4,7,31,,usa-usa
